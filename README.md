@@ -1,1 +1,1 @@
-# Bike-Sharing-Demand-Prediction
+I led a project where I cleaned and fetched data using SQL queries, conducted thorough data cleaning, and created a multi-page interactive dashboard with full parameterization. Additionally, I worked on a machine learning project to predict bike sharing demand, where I analyzed and decoded data to create various plots and evaluate demand based on different parameters.
